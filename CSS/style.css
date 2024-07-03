@@ -346,6 +346,12 @@ h1, h2, h3 {
   font-weight: 300;
   display: block;
 }
+.subscribe_bottom input::-moz-placeholder {
+  color: white;
+}
+.subscribe_bottom input::placeholder {
+  color: white;
+}
 .subscribe_bottom a {
   padding: 0.2rem 2rem;
   border-radius: 50px;
