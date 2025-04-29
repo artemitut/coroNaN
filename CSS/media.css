@@ -60,6 +60,9 @@
   .corona_is_right p {
     padding: 15px 0px 10px 0px;
   }
+  .header_content {
+    margin-top: 100px;
+  }
 }
 @media screen and (max-width: 525px) {
   html {
